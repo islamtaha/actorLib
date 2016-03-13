@@ -1,2 +1,2 @@
 # actorLib
-actorLib is an actor library implemented in scala
+actorLib is a simple actor library implemented in scala
